@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="valor">Valor</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="tituloProduto">Título do produto</string>
+    <string name="descricao">Descrição</string>
+    <string name="produto">TODO</string>
+</resources>
